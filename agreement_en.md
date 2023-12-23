@@ -6,23 +6,23 @@ The subject of this Agreement is to determine the rights and obligations of the 
 
 For the purposes of this Agreement, "competitive activity" is defined as any activity conducted within the Republic of Poland or abroad by any entity, organized in any legal form, whose scope directly or indirectly overlaps with the activities of the Employer. This includes, but is not limited to:
 
-a) Computer programming activities;
-b) Software publishing activities;
-c) Computer consultancy activities;
-d) Computer facilities management activities;
-e) Information technology and computer service activities;
-f) Data processing, hosting, and related activities;
-g) Web portals activities;
-h) Research and experimental development on natural sciences and engineering;
-i) Research and experimental development on social sciences and humanities;
-j) Activities of employment placement agencies;
-k) News agency activities;
-l) Information service activities;
-m) Business and management consultancy activities;
-n) Scientific research and development activities;
-o) Professional, scientific, and technical activities;
-p) Rental and operation of own or leased real estate;
-q) Activities of head offices, excluding financial holdings.
+- Computer programming activities;
+- Software publishing activities;
+- Computer consultancy activities;
+- Computer facilities management activities;
+- Information technology and computer service activities;
+- Data processing, hosting, and related activities;
+- Web portals activities;
+- Research and experimental development on natural sciences and engineering;
+- Research and experimental development on social sciences and humanities;
+- Activities of employment placement agencies;
+- News agency activities;
+- Information service activities;
+- Business and management consultancy activities;
+- Scientific research and development activities;
+- Professional, scientific, and technical activities;
+- Rental and operation of own or leased real estate;
+- Activities of head offices, excluding financial holdings.
 
 The competition ban also includes inciting or persuading a person providing work to the Employer, entities affiliated with the Employer, or Employer's business clients or entities affiliated with the Employer within its group.
 
