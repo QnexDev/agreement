@@ -4,8 +4,7 @@ The subject of this Agreement is to determine the rights and obligations of the 
 
 ## § 2. Competitive Activity
 
-For the purposes of this Agreement, "competitive activity" is defined as any activity conducted within the Republic of Poland or abroad by any entity, organized in any legal form, whose scope directly or indirectly overlaps with the activities of the Employer. This includes, but is not limited to:
-
+For the purposes of this Agreement competitive activity is considered as activity of every entity on territory of the Republic of Poland and abroad, organized in any legal form, which scope directly or indirectly covers activities being in the scope of the activities of the Employer, in particular:
 - Computer programming activities;
 - Software publishing activities;
 - Computer consultancy activities;
