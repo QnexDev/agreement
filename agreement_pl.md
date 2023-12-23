@@ -1,7 +1,7 @@
 ## § 1.
 ## Przedmiot Umowy
 
-Przedmiotem Umowy jest ustalenie praw i obowiązków Pracodawcy i Pracownika w zakresie dotyczącym działalności konkurencyjnej Pracownika w trakcie trwania stosunku pracy, powstałego na podstawie umowy o pracę z dnia 01/07/2022. Umowa o zachowaniu poufności zawarta przez Pracownika i Pracodawcę znajduje zastosowanie również w przypadku niniejszej Umowy.
+Przedmiotem Umowy jest ustalenie praw i obowiązków Pracodawcy i Pracownika w zakresie dotyczącym działalności konkurencyjnej Pracownika w trakcie trwania stosunku pracy, powstałego na podstawie umowy o pracę z dnia 01/01/2020. Umowa o zachowaniu poufności zawarta przez Pracownika i Pracodawcę znajduje zastosowanie również w przypadku niniejszej Umowy.
 
 ## § 2.
 ## Działalność konkurencyjna
