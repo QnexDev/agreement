@@ -29,12 +29,12 @@ In case of any doubts regarding the scope mentioned above, the Employee is requi
 
 The Employee agrees not to engage in any form of competitive activity during their employment, including but not limited to:
 
-a) Providing work, based on an employment contract or otherwise, for the benefit of an entity conducting competitive activities, providing services based on civil law contracts, or performing work;
-b) Accepting functions in the governing institutions of entities engaged in competitive activities or advisory or consulting functions in those entities or for those entities;
-c) Participating (in any legal form) in competitive projects or in competing entities, as well as informal participation in such projects or entities;
-d) Undertaking or conducting business activities on their own or someone else's behalf if it involves competitive activities, as well as conducting such activities informally;
-e) Persuading employees of the Employer and its affiliated companies to terminate their Employment Contracts;
-f) Undertaking any other form of activity or omission that violates or jeopardizes the interests of the Employer and its affiliated companies.
+- Providing work, based on an employment contract or otherwise, for the benefit of an entity conducting competitive activities, providing services based on civil law contracts, or performing work;
+- Accepting functions in the governing institutions of entities engaged in competitive activities or advisory or consulting functions in those entities or for those entities;
+- Participating (in any legal form) in competitive projects or in competing entities, as well as informal participation in such projects or entities;
+- Undertaking or conducting business activities on their own or someone else's behalf if it involves competitive activities, as well as conducting such activities informally;
+- Persuading employees of the Employer and its affiliated companies to terminate their Employment Contracts;
+- Undertaking any other form of activity or omission that violates or jeopardizes the interests of the Employer and its affiliated companies.
 
 The Employee undertakes not to knowingly and intentionally conduct activities that violate the competition ban when influencing the activities of any entrepreneur.
 
